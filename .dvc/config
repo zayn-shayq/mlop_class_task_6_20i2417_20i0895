@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\ayesh\Desktop\mlop_class_task_6_20i2417_20i0895\.dvc
